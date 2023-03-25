@@ -1,6 +1,7 @@
-# Capstone_Project ::
+# Capstone_Project :
 
-Introduction Creating a dashboard that provides insights into unemployment trends for different US states using Power BI
+## Introduction :
+Creating a dashboard that provides insights into unemployment trends for different US states using Power BI
 
 ## Data Link https://www.kaggle.com/datasets/justin2028/unemployment-in-america-per-us-state 
 
