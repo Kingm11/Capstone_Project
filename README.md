@@ -5,14 +5,17 @@ Objective: Create a dashboard that provides insights into unemployment trends fo
 
 Scope:
 
-## Data Source: Unemployment data is available in a CSV file containing information on unemployment by month and state.
+## Data Source:
+Unemployment data is available in a CSV file containing information on unemployment by month and state.
 
-## Key Performance Indicators (KPIs): The dashboard should display the following KPIs:
+## Key Performance Indicators (KPIs): 
+The dashboard should display the following KPIs:
 Unemployment rate by state
 Top 5 states with highest unemployment rate
 Unemployment trends by year and month
 
-## Visualization Requirements: The dashboard should include the following visualizations:
+## Visualization Requirements:
+The dashboard should include the following visualizations:
 Map to display unemployment rate by state
 Bar chart to display top 5 states with highest unemployment rate
 Line chart to display unemployment trends by year and month
