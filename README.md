@@ -1,9 +1,13 @@
-# Capstone_Project :: Creating a dashboard that provides insights into unemployment trends for different US states using Power BI
+# Capstone_Project ::
+
+Introduction Creating a dashboard that provides insights into unemployment trends for different US states using Power BI
 
 ## Data Link https://www.kaggle.com/datasets/justin2028/unemployment-in-america-per-us-state 
 
 ====================================================================================================================================
-##Objective:
+
+## Objective:
+
 The objective of a Power BI project using the unemployment data provided in the link https://www.kaggle.com/datasets/justin2028/unemployment-in-america-per-us-state is  to create a dashboard that provides insights into unemployment trends for different US states. The dashboard should include various KPIs and visualizations to help the user understand and analyze the data. Some possible objectives for this project could be:
 
 To analyze the unemployment rates across different US states and identify states with high or low unemployment rates.
