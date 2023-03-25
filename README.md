@@ -4,7 +4,7 @@ Introduction Creating a dashboard that provides insights into unemployment trend
 
 ## Data Link https://www.kaggle.com/datasets/justin2028/unemployment-in-america-per-us-state 
 
-====================================================================================================================================
+===============================================================================================
 
 ## Objective:
 
@@ -20,7 +20,7 @@ To understand the impact of the COVID-19 pandemic on the unemployment rates acro
 
 To forecast the future unemployment rates based on the historical data trends and make data-driven decisions.
 
-====================================================================================================================================
+=================================================================================================
 ## Scope:
 
 ### Data Source:
@@ -59,15 +59,15 @@ To create a data model in Power BI that includes the required tables, relationsh
 
 Design the dashboard using the required visualizations and layout. Include any required filters and slicers. 
 
-## Step 4: Add Interactivity
+### Step 4: Add Interactivity
 
 Add interactivity to the dashboard using filters, slicers, and drill-through actions. For this i will include a slicer to filter by year and a drill-through action to see the details of a specific state.
 
-Step 5: Apply Formatting
+### Step 5: Apply Formatting
 
 Apply formatting to the visualizations, including colors, fonts, and styles. For this i will use a Dark color scheme and a modern font.
 
-Step 6: Add Calculations and Measures
+### Step 6: Add Calculations and Measures
 
 Add any required calculations and measures to the data model. For this i will add a measure to calculate the unemployment rate and another measure to calculate the unemployment rate by state.
 
