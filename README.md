@@ -9,7 +9,7 @@ This is a dataset that tracks relevant population statistics and employment rate
 
 ## Objective:
 
-### The objective of a Python project using the unemployment data provided in the link https://www.kaggle.com/datasets/justin2028/unemployment-in-america-per-us-state could be to:
+### The objective of a Python project using the unemployment data provided in the Unemployment in America Per US State.csv
 
 ### Clean and preprocess the data: Load the CSV file into a Pandas DataFrame and perform data cleaning operations such as removing duplicates, handling missing values, and correcting data types.
 
@@ -52,7 +52,7 @@ Pie chart.
 
   Data Cleaning: This step involves data cleaning, where data is checked for missing values and any outliers.
 
- Exploratory Data Analysis (EDA): EDA is performed using various graphical and statistical methods to understand the data better.
+ Exploratory Data Analysis (EDA): EDA is performed using various graphical and statistical methods to understand the data better.To see unemployment trend during initial spread of covid from may to july 20202.
 
  Data Visualization: Data visualization is performed using different libraries like matplotlib, seaborn, and plotly to create various plots and charts to visualize the data.
 
