@@ -11,18 +11,13 @@ https://www.kaggle.com/datasets/justin2028/unemployment-in-america-per-us-state
 
 ## Objective:
 
-The objective of a Power BI project using the unemployment data provided in the link https://www.kaggle.com/datasets/justin2028/unemployment-in-america-per-us-state is  to create a dashboard that provides insights into unemployment trends for different US states. The dashboard should include various KPIs and visualizations to help the user understand and analyze the data. Some possible objectives for this project could be:
+The objective of a Python project using the unemployment data provided in the link https://www.kaggle.com/datasets/justin2028/unemployment-in-america-per-us-state could be to:
 
-To analyze the unemployment rates across different US states and identify states with high or low unemployment rates.
+Clean and preprocess the data: Load the CSV file into a Pandas DataFrame and perform data cleaning operations such as removing duplicates, handling missing values, and correcting data types.
 
-To track the unemployment trends over time by month and year and identify any patterns or trends.
+Explore and visualize the data: Use Matplotlib or other visualization libraries to generate charts and graphs to analyze the data and identify trends or patterns.
 
-To compare the unemployment rates across different demographic groups and identify any disparities or trends.
-
-To understand the impact of the COVID-19 pandemic on the unemployment rates across different US states and demographic groups.
-
-To forecast the future unemployment rates based on the historical data trends and make data-driven decisions.
-
+The objective of the visualization created in this project is to explore and analyze the trends and patterns of unemployment rates across different states in the United States over the period ,. The visualization aims to provide insights into the changes in unemployment rates over time and identify the states that are most affected by unemployment. The visualization includes various graphs and charts, such as line charts, bar charts, and heatmaps, to represent the data in an interactive and intuitive manner. Through this visualization, the user can easily identify the states with the highest and lowest unemployment rates, Top 10 State with High mean Unemployment Rate,Top 10 State with High percentage of Labour Force, observe the changes in unemployment rates over time, and compare the unemployment rates across different states. Overall, the objective is to provide a comprehensive and insightful analysis of the unemployment rates in the United States using visualizations.
 =================================================================================================
 ## Scope:
 
@@ -34,44 +29,37 @@ The dashboard should display the following KPIs:
 
 Unemployment rate by state.
 
-Top 5 states with highest unemployment rate.
+Top 10 states with highest mean unemployment rate.
+
+Top 10 states with highest percent of labour force.
 
 Unemployment trends by year and month
 
 ### Visualization Requirements:
-The dashboard should include the following visualizations:
+should include the following visualizations:
 
-Map to display unemployment rate by state.
+Bar chart.
 
-Bar chart to display top 5 states with highest unemployment rate.
+Line chart .
 
-Line chart to display unemployment trends by year and month.
+Pie chart.
 
 =====================================================================================================================================
 
 ## Steps:
-### Step 1: Connect to Data
 
-Download the CSV file from the link and connect to it in Power BI. Transform and shape the data to meet the requirements of the dashboard. For this example, we'll convert the Month column to a date format and add a column for Year.
+### Importing Required Libraries: This step involves importing the necessary libraries for the project such as pandas, numpy, matplotlib, and seaborn.
 
-### Step 2: Create Data Model
+### Loading the Dataset: In this step, the dataset is loaded into the notebook using pandas.
 
-To create a data model in Power BI that includes the required tables, relationships, and measures. For this example, i will create a table for Unemployment that includes columns for State, Date, Year, and Unemployment Rate.
+ ### Data Cleaning: This step involves data cleaning, where data is checked for missing values and any outliers.
 
-### Step 3: Design the Dashboard
+### Exploratory Data Analysis (EDA): EDA is performed using various graphical and statistical methods to understand the data better.
 
-Design the dashboard using the required visualizations and layout. Include any required filters and slicers. 
+### Data Visualization: Data visualization is performed using different libraries like matplotlib, seaborn, and plotly to create various plots and charts to visualize the data.
 
-### Step 4: Add Interactivity
 
-Add interactivity to the dashboard using filters, slicers, and drill-through actions. For this i will include a slicer to filter by year and a drill-through action to see the details of a specific state.
 
-### Step 5: Apply Formatting
 
-Apply formatting to the visualizations, including colors, fonts, and styles. For this i will use a Dark color scheme and a modern font.
-
-### Step 6: Add Calculations and Measures
-
-Add any required calculations and measures to the data model. For this i will add a measure to calculate the unemployment rate and another measure to calculate the unemployment rate by state.
 
 
