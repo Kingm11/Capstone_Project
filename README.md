@@ -48,15 +48,15 @@ Pie chart.
 
 ## Steps:
 
-### Importing Required Libraries: This step involves importing the necessary libraries for the project such as pandas, numpy, matplotlib, and seaborn.
+ Importing Required Libraries: This step involves importing the necessary libraries for the project such as pandas, numpy, matplotlib, and seaborn.
 
-### Loading the Dataset: In this step, the dataset is loaded into the notebook using pandas.
+ Loading the Dataset: In this step, the dataset is loaded into the notebook using pandas.
 
- ### Data Cleaning: This step involves data cleaning, where data is checked for missing values and any outliers.
+  Data Cleaning: This step involves data cleaning, where data is checked for missing values and any outliers.
 
-### Exploratory Data Analysis (EDA): EDA is performed using various graphical and statistical methods to understand the data better.
+ Exploratory Data Analysis (EDA): EDA is performed using various graphical and statistical methods to understand the data better.
 
-### Data Visualization: Data visualization is performed using different libraries like matplotlib, seaborn, and plotly to create various plots and charts to visualize the data.
+ Data Visualization: Data visualization is performed using different libraries like matplotlib, seaborn, and plotly to create various plots and charts to visualize the data.
 
 
 
