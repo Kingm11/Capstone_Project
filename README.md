@@ -9,20 +9,20 @@ This is a dataset that tracks relevant population statistics and employment rate
 
 ## Objective:
 
-### The objective of a Python project using the unemployment data provided in the Unemployment in America Per US State.csv
+#### The objective of a Python project using the unemployment data provided in the Unemployment in America Per US State.csv is to
 
-### Clean and preprocess the data: Load the CSV file into a Pandas DataFrame and perform data cleaning operations such as removing duplicates, handling missing values, and correcting data types.
+#### Clean and preprocess the data: Load the CSV file into a Pandas DataFrame and perform data cleaning operations such as removing duplicates, handling missing values, and correcting data types.
 
-### Explore and visualize the data: Use Matplotlib or other visualization libraries to generate charts and graphs to analyze the data and identify trends or patterns.
+#### Explore and visualize the data: Use Matplotlib or other visualization libraries to generate charts and graphs to analyze the data and identify trends or patterns.
 
-### objective of the visualization created in this project is to explore and analyze the trends and patterns of unemployment rates across different states in the United States over the period ,. The visualization aims to provide insights into the changes in unemployment rates over time and identify the states that are most affected by unemployment. The visualization includes various graphs and charts, such as line charts, bar charts, and heatmaps, to represent the data in an interactive and intuitive manner. Through this visualization, the user can easily identify the states with the highest and lowest unemployment rates, Top 10 State with High mean Unemployment Rate,Top 10 State with High percentage of Labour Force, observe the changes in unemployment rates over time, and compare the unemployment rates across different states. Overall, the objective is to provide a comprehensive and insightful analysis of the unemployment rates in the United States using visualizations.
+#### objective of the visualization created in this project is to explore and analyze the trends and patterns of unemployment rates across different states in the United States over the period ,. The visualization aims to provide insights into the changes in unemployment rates over time and identify the states that are most affected by unemployment. The visualization includes various graphs and charts, such as line charts, bar charts, and heatmaps, to represent the data in an interactive and intuitive manner. Through this visualization, the user can easily identify the states with the highest and lowest unemployment rates, Top 10 State with High mean Unemployment Rate,Top 10 State with High percentage of Labour Force, observe the changes in unemployment rates over time, and compare the unemployment rates across different states. Overall, the objective is to provide a comprehensive and insightful analysis of the unemployment rates in the United States using visualizations.
 =================================================================================================
 ## Scope:
 
-### Data Source:
+#### Data Source:
 Unemployment data is available in a CSV file containing information on unemployment by month and state.
 
-### Key Performance Indicators (KPIs): 
+#### Key Performance Indicators (KPIs): 
 The dashboard should display the following KPIs:
 
 Unemployment rate by state.
@@ -33,7 +33,7 @@ Top 10 states with highest percent of labour force.
 
 Unemployment trends by year and month
 
-### Visualization Requirements:
+#### Visualization Requirements:
 should include the following visualizations:
 
 Bar chart.
