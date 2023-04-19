@@ -3,9 +3,7 @@
 ## Introduction :
 This is a dataset that tracks relevant population statistics and employment rates per US state since 1976. And I will be using Python to create visulization that provides insights into unemployment trends for different US states .
 
-## Data Link 
 
-https://www.kaggle.com/datasets/justin2028/unemployment-in-america-per-us-state 
 
 ===============================================================================================
 
