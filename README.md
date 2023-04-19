@@ -51,6 +51,8 @@ Pie chart.
  Loading the Dataset: In this step, the dataset is loaded into the notebook using pandas.
 
   Data Cleaning: This step involves data cleaning, where data is checked for missing values and any outliers.
+  
+  Creating Function: Creating function which will perform predefined action
 
  Exploratory Data Analysis (EDA): EDA is performed using various graphical and statistical methods to understand the data better.To see unemployment trend during initial spread of covid from may to july 20202.
 
