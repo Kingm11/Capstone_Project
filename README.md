@@ -23,37 +23,37 @@ This is a dataset that tracks relevant population statistics and employment rate
 
 The primary data source for this project is the Bureau of Labor Statistics (BLS), which publishes monthly updates on unemployment rates for US states since January 1976. The BLS also provides a technical note that gives an overview of their unemployment data, methodology, and definitions for the variables tracked, providing essential contextual knowledge to create a meaningful dataset.
 
-### Statistics Being Tracked
+1. ### Statistics Being Tracked
  
- ##### FIPS Code of State/Area
+2. ##### FIPS Code of State/Area
 
-##### Year/Month of Statistic
+3. ##### Year/Month of Statistic
 
-##### Total Civilian Non-Institutional Population in State/Area
+4. ##### Total Civilian Non-Institutional Population in State/Area
 
-##### Total Civilian Labor Force in State/Area
+5. ##### Total Civilian Labor Force in State/Area
 
-##### Percent (%) of State/Area's Population
+6. ##### Percent (%) of State/Area's Population
 
-##### Total Employment in State/Area
+7. ##### Total Employment in State/Area
 
-##### Percent (%) of Labor Force Employed in State/Area
+8. ##### Percent (%) of Labor Force Employed in State/Area
 
-##### Total Unemployment in State/Area
+9. ##### Total Unemployment in State/Area
 
-##### Percent (%) of Labor Force Unemployed in State/Area
+10. ##### Percent (%) of Labor Force Unemployed in State/Area
 
 ### Key Performance Indicators (KPIs): 
 
 The dashboard should display the following KPIs:
 
-Unemployment rate by state.
+1. Unemployment rate by state.
 
-Top 10 states with highest mean unemployment rate.
+2. Top 10 states with highest mean unemployment rate.
 
-Top 10 states with highest percent of labour force.
+3. Top 10 states with highest percent of labour force.
 
-Unemployment trends by year and month
+4. Unemployment trends by year and month
 
 ### Visualization Requirements:
 should include the following visualizations:
