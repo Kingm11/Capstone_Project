@@ -25,25 +25,26 @@ The primary data source for this project is the Bureau of Labor Statistics (BLS)
 
 ### Statistics Being Tracked
  
- #### FIPS Code of State/Area
+ ##### FIPS Code of State/Area
 
-#### Year/Month of Statistic
+##### Year/Month of Statistic
 
-#### Total Civilian Non-Institutional Population in State/Area
+##### Total Civilian Non-Institutional Population in State/Area
 
-#### Total Civilian Labor Force in State/Area
+##### Total Civilian Labor Force in State/Area
 
-#### Percent (%) of State/Area's Population
+##### Percent (%) of State/Area's Population
 
-#### Total Employment in State/Area
+##### Total Employment in State/Area
 
-#### Percent (%) of Labor Force Employed in State/Area
+##### Percent (%) of Labor Force Employed in State/Area
 
-#### Total Unemployment in State/Area
+##### Total Unemployment in State/Area
 
-#### Percent (%) of Labor Force Unemployed in State/Area
+##### Percent (%) of Labor Force Unemployed in State/Area
 
 ### Key Performance Indicators (KPIs): 
+
 The dashboard should display the following KPIs:
 
 Unemployment rate by state.
