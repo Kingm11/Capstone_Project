@@ -76,13 +76,26 @@ Pie chart.
 
 ## Steps:
 
+ 
  Importing Required Libraries: This step involves importing the necessary libraries for the project such as pandas, numpy, matplotlib, and seaborn.
 
- Loading the Dataset: In this step, the dataset is loaded into the notebook using pandas.
+![alt text](https://github.com/Kingm11/Capstone_Project/blob/main/visulization%20using%20python/import.png)
 
-  Data Cleaning: This step involves data cleaning, where data is checked for missing values and any outliers.
+Loading the Dataset: In this step, the dataset is loaded into the notebook using pandas.
+
+![alt text](https://github.com/Kingm11/Capstone_Project/blob/main/visulization%20using%20python/read.png)
+
+Data Cleaning: This step involves data cleaning, where data is checked for missing values and any outliers.
+
+![alt text](https://github.com/Kingm11/Capstone_Project/blob/main/visulization%20using%20python/info.png)
+
+We can see that there are 29892 entries and each column has a non-null count of 29892 so we can infer that there are no null values in this dataset even without using df.isnull.sum()
   
-  Creating Function: Creating function which will perform predefined action
+
+Creating Function: Creating function which will perform predefined action
+
+![alt text](https://github.com/Kingm11/Capstone_Project/blob/main/visulization%20using%20python/function.png)
+  
 
  Exploratory Data Analysis (EDA): EDA is performed using various graphical and statistical methods to understand the data better.To see unemployment trend during initial spread of covid from may to july 20202.
 
@@ -101,6 +114,6 @@ Pie chart.
 ## Documentation
 
 [Video Explaning the notebook ](https://github.com/Kingm11/Capstone_Project/tree/main/Video)  
-[.py file ](https://github.com/Kingm11/Capstone_Project/blob/main/Capstone.ipynb)  
+[.ipynb file ](https://github.com/Kingm11/Capstone_Project/blob/main/Capstone.ipynb)  
 [.py file ](https://github.com/Kingm11/Capstone_Project/blob/main/capstone.py)  
 [Data](https://github.com/Kingm11/Capstone_Project/tree/main/Data)
