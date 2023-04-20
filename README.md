@@ -63,7 +63,8 @@ Pie chart.
 
 ![alt text](https://github.com/Kingm11/Capstone_Project/blob/main/visulization%20using%20python/Screenshot%202023-04-19%20031354.png)
 #### Top 10 state % of population which was unemployed during the month of  april and may 2020
-![alt text](screenshots/filename.png "Description goes here")
+![alt text](https://github.com/Kingm11/Capstone_Project/blob/main/visulization%20using%20python/Screenshot%202023-04-19%20031432.png)
+#### Top 10 state % of population which was unemployed during the month of  june and july 2020
 ![alt text](screenshots/filename.png "Description goes here")
 
 
