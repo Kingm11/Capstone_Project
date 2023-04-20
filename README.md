@@ -45,6 +45,8 @@ Pie chart.
 ## Technologies Used
 [.matpolib](https://matplotlib.org/)  
 
+[.pandas](https://pandas.pydata.org/)
+
 [.seaborn](https://seaborn.pydata.org/)
 
 =====================================================================================================================================
