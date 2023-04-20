@@ -42,6 +42,11 @@ Line chart .
 
 Pie chart.
 
+## Technologies Used
+[.matpolib](https://matplotlib.org/)  
+
+[.seaborn](https://seaborn.pydata.org/)
+
 =====================================================================================================================================
 
 ## Steps:
