@@ -59,6 +59,12 @@ Pie chart.
  Data Visualization: Data visualization is performed using different libraries like matplotlib, seaborn, and plotly to create various plots and charts to visualize the data.
 
 
+## Visulization
+
+![alt text](https://github.com/Kingm11/Capstone_Project/blob/main/visulization%20using%20python/Screenshot%202023-04-19%20031354.png)
+![alt text](screenshots/filename.png "Description goes here")
+![alt text](screenshots/filename.png "Description goes here")
+
 
 
 
