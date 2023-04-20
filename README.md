@@ -19,21 +19,43 @@ This is a dataset that tracks relevant population statistics and employment rate
 =================================================================================================
 ## Scope:
 
-#### Data Source:
-Unemployment data is available in a CSV file containing information on unemployment by month and state.
+#### Data Sources
 
-#### Key Performance Indicators (KPIs): 
+The primary data source for this project is the Bureau of Labor Statistics (BLS), which publishes monthly updates on unemployment rates for US states since January 1976. The BLS also provides a technical note that gives an overview of their unemployment data, methodology, and definitions for the variables tracked, providing essential contextual knowledge to create a meaningful dataset.
+
+ #### 1. Statistics Being Tracked
+ 
+ ##### 2.  FIPS Code of State/Area
+
+ ##### 3. Year/Month of Statistic
+
+ ##### 4. Total Civilian Non-Institutional Population in State/Area
+
+ ##### 5. Total Civilian Labor Force in State/Area
+
+ ##### 6. Percent (%) of State/Area's Population
+
+ ##### 7. Total Employment in State/Area
+
+ ##### 8. Percent (%) of Labor Force Employed in State/Area
+
+ ##### 9. Total Unemployment in State/Area
+
+ ##### 10. Percent (%) of Labor Force Unemployed in State/Area
+
+### Key Performance Indicators (KPIs): 
+
 The dashboard should display the following KPIs:
 
-Unemployment rate by state.
+1. Unemployment rate by state.
 
-Top 10 states with highest mean unemployment rate.
+2. Top 10 states with highest mean unemployment rate.
 
-Top 10 states with highest percent of labour force.
+3. Top 10 states with highest percent of labour force.
 
-Unemployment trends by year and month
+4. Unemployment trends by year and month
 
-#### Visualization Requirements:
+### Visualization Requirements:
 should include the following visualizations:
 
 Bar chart.
@@ -41,6 +63,14 @@ Bar chart.
 Line chart .
 
 Pie chart.
+
+## Technologies Used
+
+[.matpolib](https://matplotlib.org/)  
+
+[.pandas](https://pandas.pydata.org/)
+
+[.seaborn](https://seaborn.pydata.org/)
 
 =====================================================================================================================================
 
@@ -59,7 +89,17 @@ Pie chart.
  Data Visualization: Data visualization is performed using different libraries like matplotlib, seaborn, and plotly to create various plots and charts to visualize the data.
 
 
+## Visulization
 
+![alt text](https://github.com/Kingm11/Capstone_Project/blob/main/visulization%20using%20python/Screenshot%202023-04-19%20031354.png)
+#### Top 10 state % of population which was unemployed during the month of  april and may 2020
+![alt text](https://github.com/Kingm11/Capstone_Project/blob/main/visulization%20using%20python/Screenshot%202023-04-19%20031432.png)
+#### Top 10 state % of population which was unemployed during the month of  june and july 2020
+![alt text](https://github.com/Kingm11/Capstone_Project/blob/main/visulization%20using%20python/Screenshot%202023-04-19%20031512.png)
+#### Contribution of top 10 state % of population which was unemployed during the month of  April to the total % of unemployed people in US
 
+## Documentation
 
-
+[Video Explaning the .py file ](https://github.com/Kingm11/Capstone_Project/tree/main/Video)  
+[.py file ](https://github.com/Kingm11/Capstone_Project/blob/main/capstone.py)  
+[Data](https://github.com/Kingm11/Capstone_Project/tree/main/Data)
