@@ -104,12 +104,41 @@ Creating Function: Creating function which will perform predefined action
 
 ## Visulization
 
+
 ![alt text](https://github.com/Kingm11/Capstone_Project/blob/main/visulization%20using%20python/Screenshot%202023-04-19%20031354.png)
 #### Top 10 state % of population which was unemployed during the month of  april and may 2020
+
+
 ![alt text](https://github.com/Kingm11/Capstone_Project/blob/main/visulization%20using%20python/Screenshot%202023-04-19%20031432.png)
 #### Top 10 state % of population which was unemployed during the month of  june and july 2020
+
+
 ![alt text](https://github.com/Kingm11/Capstone_Project/blob/main/visulization%20using%20python/Screenshot%202023-04-19%20031512.png)
 #### Contribution of top 10 state % of population which was unemployed during the month of  April to the total % of unemployed people in US
+
+
+![alt text](https://github.com/Kingm11/Capstone_Project/blob/main/visulization%20using%20python/piemay.png)
+#### Contribution of top 10 state % of population which was unemployed during the month of  May to the total % of unemployed people in US
+  
+
+![alt text](https://github.com/Kingm11/Capstone_Project/blob/main/visulization%20using%20python/piejune.png)
+#### Contribution of top 10 state % of population which was unemployed during the month of  June to the total % of unemployed people in US
+
+
+![alt text](https://github.com/Kingm11/Capstone_Project/blob/main/visulization%20using%20python/piejuly.png)
+#### Contribution of top 10 state % of population which was unemployed during the month of  July to the total % of unemployed people in US
+
+
+![alt text](https://github.com/Kingm11/Capstone_Project/blob/main/visulization%20using%20python/un5.png)
+#### Top 10 statewith high % of labour force 
+
+
+![alt text](https://github.com/Kingm11/Capstone_Project/blob/main/visulization%20using%20python/un4.png)
+#### Top 10 state with high mean unemployment rate
+
+
+![alt text](https://github.com/Kingm11/Capstone_Project/blob/main/visulization%20using%20python/un6.png)
+#### Unemployment rate in Arizona from 1976-2022
 
 ## Documentation
 
