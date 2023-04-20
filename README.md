@@ -23,25 +23,25 @@ This is a dataset that tracks relevant population statistics and employment rate
 
 The primary data source for this project is the Bureau of Labor Statistics (BLS), which publishes monthly updates on unemployment rates for US states since January 1976. The BLS also provides a technical note that gives an overview of their unemployment data, methodology, and definitions for the variables tracked, providing essential contextual knowledge to create a meaningful dataset.
 
- ### 1. Statistics Being Tracked
+ #### 1. Statistics Being Tracked
  
-2. ##### 2.  FIPS Code of State/Area
+ ##### 2.  FIPS Code of State/Area
 
-3. ##### 3. Year/Month of Statistic
+ ##### 3. Year/Month of Statistic
 
-4. ##### 4. Total Civilian Non-Institutional Population in State/Area
+ ##### 4. Total Civilian Non-Institutional Population in State/Area
 
-5. ##### 5. Total Civilian Labor Force in State/Area
+ ##### 5. Total Civilian Labor Force in State/Area
 
-6. ##### 6. Percent (%) of State/Area's Population
+ ##### 6. Percent (%) of State/Area's Population
 
-7. ##### 7. Total Employment in State/Area
+ ##### 7. Total Employment in State/Area
 
-8. ##### 8. Percent (%) of Labor Force Employed in State/Area
+ ##### 8. Percent (%) of Labor Force Employed in State/Area
 
-9. ##### 9. Total Unemployment in State/Area
+ ##### 9. Total Unemployment in State/Area
 
-10. ##### 10. Percent (%) of Labor Force Unemployed in State/Area
+ ##### 10. Percent (%) of Labor Force Unemployed in State/Area
 
 ### Key Performance Indicators (KPIs): 
 
