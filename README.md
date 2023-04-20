@@ -101,5 +101,7 @@ Pie chart.
 ## Documentation
 
 [Video Explaning the .py file ](https://github.com/Kingm11/Capstone_Project/tree/main/Video)  
+
+[.py file ](https://github.com/Kingm11/Capstone_Project/blob/main/Capstone.ipynb)  
 [.py file ](https://github.com/Kingm11/Capstone_Project/blob/main/capstone.py)  
 [Data](https://github.com/Kingm11/Capstone_Project/tree/main/Data)
