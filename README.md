@@ -23,7 +23,7 @@ This is a dataset that tracks relevant population statistics and employment rate
 
 The primary data source for this project is the Bureau of Labor Statistics (BLS), which publishes monthly updates on unemployment rates for US states since January 1976. The BLS also provides a technical note that gives an overview of their unemployment data, methodology, and definitions for the variables tracked, providing essential contextual knowledge to create a meaningful dataset.
 
-#### Statistics Being Tracked
+### Statistics Being Tracked
  
  #### FIPS Code of State/Area
 
@@ -43,7 +43,7 @@ The primary data source for this project is the Bureau of Labor Statistics (BLS)
 
 #### Percent (%) of Labor Force Unemployed in State/Area
 
-#### Key Performance Indicators (KPIs): 
+### Key Performance Indicators (KPIs): 
 The dashboard should display the following KPIs:
 
 Unemployment rate by state.
@@ -54,7 +54,7 @@ Top 10 states with highest percent of labour force.
 
 Unemployment trends by year and month
 
-#### Visualization Requirements:
+### Visualization Requirements:
 should include the following visualizations:
 
 Bar chart.
