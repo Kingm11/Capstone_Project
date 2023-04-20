@@ -62,6 +62,7 @@ Pie chart.
 ## Visulization
 
 ![alt text](https://github.com/Kingm11/Capstone_Project/blob/main/visulization%20using%20python/Screenshot%202023-04-19%20031354.png)
+Output
 ![alt text](screenshots/filename.png "Description goes here")
 ![alt text](screenshots/filename.png "Description goes here")
 
