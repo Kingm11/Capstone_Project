@@ -19,8 +19,9 @@ This is a dataset that tracks relevant population statistics and employment rate
 =================================================================================================
 ## Scope:
 
-#### Data Source:
-Unemployment data is available in a CSV file containing information on unemployment by month and state.
+#### Data Sources
+
+The primary data source for this project is the Bureau of Labor Statistics (BLS), which publishes monthly updates on unemployment rates for US states since January 1976. The BLS also provides a technical note that gives an overview of their unemployment data, methodology, and definitions for the variables tracked, providing essential contextual knowledge to create a meaningful dataset.
 
 #### Key Performance Indicators (KPIs): 
 The dashboard should display the following KPIs:
